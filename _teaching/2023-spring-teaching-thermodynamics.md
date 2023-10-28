@@ -1,5 +1,5 @@
 ---
-title: "Teaching/Thermodynamics"
+title: "Thermodynamics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-thermodynamics

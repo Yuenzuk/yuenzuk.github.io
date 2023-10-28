@@ -1,5 +1,5 @@
 ---
-title: "Teaching/Classical Mechanics"
+title: "Classical Mechanics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-classical_mechanics
