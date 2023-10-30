@@ -12,4 +12,4 @@ I was a teaching assistant in the course of Thermoynamics. The lecturer was [Pro
 
 I Evaluated assignments and conducted bi-weekly tutorial sessions. I also wrote lecture notes (in Chinese) for every tutorial session. Here are some of them:
 
-[Fourth](/files/thermodynamics/tutorial4.pdf), [fifth](/files/thermodynamics/tutorial4.pdf), and [seventh](/files/thermodynamics/tutorial4.pdf) lectures for tutorial sessions.
+[Fourth](/files/thermodynamics/tutorial4.pdf), [fifth](/files/thermodynamics/tutorial5.pdf), and [seventh](/files/thermodynamics/tutorial7.pdf) lectures for tutorial sessions.
