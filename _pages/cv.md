@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV is in this [PDF file](./cv.pdf).
+My CV is in this [PDF file](./cv.pdf). It's mainly based on a [template by Christian Maria Giannetti](https://www.overleaf.com/latex/templates/elegant-resume-template/gcnbfnxkcwby).
