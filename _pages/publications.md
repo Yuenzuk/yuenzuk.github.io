@@ -13,6 +13,12 @@ author_profile: true
 
 No publications yet. But I'm working hard! Coming soon!🚀
 
+## Current Research
+**Study of Symmetry-Resolved Entanglement in CFT and Holography**
+  - Extracted information from symmetry-resolved entanglement (R´enyi) entropy at large charge limit
+  - Explored more entanglement quantities in symmetry resolution
+  - Tried to understand symmetry-resolved quantities using holography
+
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
